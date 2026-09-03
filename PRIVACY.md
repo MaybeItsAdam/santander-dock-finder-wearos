@@ -1,8 +1,8 @@
 # Privacy Policy for London Dock Compass
 
-Last updated: July 30, 2026
+Last updated: September 3, 2026
 
-London Dock Compass ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Wear OS application, **London Dock Compass** (the "App").
+London Dock Compass is published by **MaybeItsSoftware Ltd** ("we", "our", or "us"), a company registered in the United Kingdom, which is the data controller for any personal data described in this policy. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Wear OS application, **London Dock Compass** (the "App").
 
 Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the App.
 
@@ -69,6 +69,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 8. Contact Us
 
-If you have any questions or suggestions about this Privacy Policy, please contact the developer:
+If you have any questions or suggestions about this Privacy Policy, or wish to exercise your rights under the UK GDPR, please contact us:
 
-* **Developer Email:** [Insert Contact Email / Website Link]
+* **Data Controller:** MaybeItsSoftware Ltd, United Kingdom
+* **Email:** [privacy@maybeitssoftware.co.uk](mailto:privacy@maybeitssoftware.co.uk)
